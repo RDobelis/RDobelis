@@ -19,9 +19,9 @@ Welcome to my GitHub repository. Here, you'll find some of my projects and contr
 
 Here are some of my projects that highlight my skills and experience:
 
-- *Project A: TBA
-- *Project B: TBA
-- *Project C: TBA
+- *Project A: TBA*
+- *Project B: TBA*
+- *Project C: TBA*
 
 ## About me
 
