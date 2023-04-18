@@ -24,7 +24,7 @@ Here are some of my projects that highlight my skills and experience:
 
 ## About Me
 
-Hello! I'm Rihards, a passionate software developer with expertise in a range of technologies and practices, including JavaScript, TypeScript, NodeJS, Git, C#, .NET, Relational Databases & SQL, HTTP & Web API Basics, Unit Testing, Test-Driven Development, Clean Code, and SOLID principles.
+Hello! I'm Rihards, a passionate software developer with expertise in a range of technologies and practices, including JavaScript, TypeScript, NodeJS, Git, C#, .NET, Relational Databases & SQL, HTTP & Web API Basics, Unit Testing, and Test-Driven Development.
 
 ### Languages
 
