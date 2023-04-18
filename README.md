@@ -12,7 +12,6 @@ Welcome to my GitHub repository. Here, you'll find some of my projects and contr
 - HTTP & Web API Basics
 - Unit Testing
 - Test Driven Development
-- Clean Code, SOLID
 - TypeScript & NodeJS basics
 
 ## Projects
