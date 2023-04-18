@@ -37,4 +37,4 @@ In my free time, I enjoy exploring my hobbies and interests, which include playi
 
 ## Contact
 
-If you're interested in collaborating or learning more about my skills and experience, feel free to reach out to me at rihards.dobelis@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rihards-dobelis-6a031b46/).
+If you're interested in collaborating or learning more about my skills and experience, feel free to reach out to me at rihards.dobelis@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rdobelis/).
