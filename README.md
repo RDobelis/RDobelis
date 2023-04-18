@@ -12,8 +12,7 @@ Welcome to my GitHub repository. Here, you'll find some of my projects and contr
 - Unit Testing
 - Test Driven Development
 - Clean Code, SOLID
-- Design Patterns
-- HTML & CSS, VueJS, TypeScript & NodeJS basics
+- TypeScript & NodeJS basics
 
 ## Projects
 
