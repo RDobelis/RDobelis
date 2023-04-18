@@ -33,4 +33,4 @@ I've also contributed to several open-source projects and communities, including
 
 ## Contact
 
-If you're interested in collaborating or learning more about my skills and experience, feel free to reach out to me at rihards.dobelis@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username]/).
+If you're interested in collaborating or learning more about my skills and experience, feel free to reach out to me at rihards.dobelis@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rihards-dobelis-6a031b46/).
