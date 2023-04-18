@@ -23,9 +23,17 @@ Here are some of my projects that highlight my skills and experience:
 - *Project B: TBA*
 - *Project C: TBA*
 
-## About me
+## About Me
 
-Hello! I'm Rihards, a passionate full-stack developer with expertise in a variety of technologies and practices, including Git, C#, .NET, relational databases and SQL, HTTP and Web API basics, unit testing, test-driven development, clean code principles, SOLID design, and design patterns. In my free time, I enjoy exploring my hobbies and interests, which include playing video games, watching anime and reading manga, playing poker, and weightlifting. These hobbies help me stay balanced and motivated in my work, allowing me to approach complex coding challenges with a fresh perspective and a determined mindset. I'm always looking for new opportunities to grow and learn, so please feel free to reach out if you're interested in collaborating or learning more about my skills and experience.
+Hello! I'm Rihards, a passionate full-stack developer with expertise in a variety of technologies and practices, including Git, C#, .NET, relational databases and SQL, HTTP and Web API basics, unit testing, test-driven development, clean code principles, SOLID design, and design patterns. 
+
+### Languages
+
+I'm fluent in English, Latvian, and Russian. 
+
+### Hobbies and Interests
+
+In my free time, I enjoy exploring my hobbies and interests, which include playing video games, watching anime and reading manga, playing poker, and weightlifting. These hobbies help me stay balanced and motivated in my work, allowing me to approach complex coding challenges with a fresh perspective and a determined mindset. I'm always looking for new opportunities to grow and learn, so please feel free to reach out if you're interested in collaborating or learning more about my skills and experience.
 
 ## Contact
 
