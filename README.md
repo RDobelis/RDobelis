@@ -7,6 +7,7 @@ Welcome to my GitHub repository. Here, you'll find some of my projects and contr
 - Git
 - C#
 - .NET
+- JavaScript
 - Relational Databases & SQL
 - HTTP & Web API Basics
 - Unit Testing
