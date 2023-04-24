@@ -18,7 +18,7 @@ Welcome to my GitHub repository. Here, you'll find some of my projects and contr
 
 Here are some of my projects that highlight my skills and experience:
 
-- Flight Planner App: Built a web application using C# and web technologies such as HTTP & Web API and TypeScript. The project utilized a flight planning API to help users plan their flights and required good problem-solving skills, attention to detail, and collaboration with team members.
+- [Flight Planner App](https://github.com/RDobelis/FlightPlannerApp): Built a web application using C# and web technologies such as HTTP & Web API and TypeScript. The project utilized a flight planning API to help users plan their flights and required good problem-solving skills, attention to detail, and collaboration with team members.
 - Implemented Test-Driven Development methodology to ensure each feature was thoroughly tested, new code didn't break existing functionality, defects were caught early in the development cycle, and improved overall software quality.
 - SQL: Used SQL to manage and manipulate relational databases, writing queries to extract data, create tables, and modify data structures.
 
