@@ -24,7 +24,7 @@ Here are some of my projects that highlight my skills and experience:
 - [TodoApp](https://github.com/RDobelis/TodoApp-React): Built a TodoApp with option to add and edit articles. Incorporated a login form validation as part of a React coding challenge. 
 - [Product Code Generator](https://github.com/RDobelis/product-selector): A simple React app that generates product based on the product type and parameters. 
 - [Climate Locator](https://github.com/RDobelis/ClimateLocator): Web API climate locator application which can locate and provide with weather data based on the requested IP address. 
-- [Road Stat App](https://github.com/RDobelis/RoadStatApp): Web API application where you can upload car speed data, filter out statistics for date range and speed, and generate hourly average speed chart for a specific date. 
+- [Road Stat App](https://github.com/RDobelis/RoadStatApp): Web API application with React frontend where you can upload car speed data, filter out statistics for date range and speed, and generate hourly average speed chart for a specific date. 
 
 ## About Me
 
